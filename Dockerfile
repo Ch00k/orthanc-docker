@@ -1,4 +1,4 @@
-from jodogne/orthanc:1.7.4
+from jodogne/orthanc:1.8.0
 
 RUN apt update && \
     apt install -y nginx && \
